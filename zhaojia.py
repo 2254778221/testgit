@@ -1,5 +1,4 @@
-git clone https://git.sinacloud.com/xfh521
-cd xfh521
+
 import requests
 import itchat
 from threading import Timer
